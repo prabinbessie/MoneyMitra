@@ -7,30 +7,25 @@
 
 MoneyMitra is a comprehensive **personal finance management application** built with modern web technologies. Track your expenses, manage loans, visualize financial data, and stay financially informed with an intuitive and responsive interface.
 
-## 🚀 Features
+##  Features
 
 ### Core Functionality
-- **💰 Expense & Income Tracking** - Record and categorize all your financial transactions
-- **📊 Interactive Dashboard** - Visualize your financial data with dynamic charts and graphs
-- **🏦 Loan Management** - Track loans with automated reminders and payment schedules
-- **🧮 EMI Calculator** - Calculate loan EMIs with detailed breakdowns
-- **📱 Responsive Design** - Optimized for desktop, tablet, and mobile devices
-- **🔐 Secure Authentication** - Firebase Auth with email/password and Google sign-in
+- ** Expense & Income Tracking** - Record and categorize all your financial transactions
+- ** Interactive Dashboard** - Visualize your financial data with dynamic charts and graphs
+- ** Loan Management** - Track loans with automated reminders and payment schedules
+- ** EMI Calculator** - Calculate loan EMIs with detailed breakdowns
+- ** Responsive Design** - Optimized for desktop, tablet, and mobile devices
+- ** Secure Authentication** - Firebase Auth with email/password and Google sign-in
 
 ### Advanced Features
-- **📈 Financial Reports** - Generate detailed financial reports and insights
-- **🔔 Smart Notifications** - Get reminders for upcoming payments and financial goals
-- **💾 Offline Support** - Work seamlessly with Firestore offline capabilities
-- **🎯 Budget Planning** - Set and track financial goals and budgets
-- **📋 Transaction Categories** - Organize expenses with customizable categories
-
-### Coming in V2
-- **📧 Email Notifications** - Automated email alerts for important financial events
-- **📱 Push Notifications** - Real-time mobile notifications
-- **📊 Advanced Analytics** - AI-powered financial insights and predictions
-- **🔄 Bank Integration** - Connect with banking APIs for automatic transaction import
-
-## 🛠️ Tech Stack
+- ** Financial Reports** - Generate detailed financial reports and insights
+- ** Smart Notifications** - Get reminders for upcoming payments and financial goals
+- ** Offline Support** - Work seamlessly with Firestore offline capabilities
+- ** Budget Planning** - Set and track financial goals and budgets
+- ** Transaction Categories** - Organize expenses with customizable categories
+- ** Email Notifications** - Automated email alerts for important financial events(.Soon.)
+- ** Advanced Analytics** - AI-powered financial insights and predictions (.Soon.)
+##  Tech Stack
 
 | Technology | Purpose | Version |
 |------------|---------|---------|
@@ -43,7 +38,7 @@ MoneyMitra is a comprehensive **personal finance management application** built 
 | **Vite** | Build Tool | Latest |
 | **GitHub Actions** | CI/CD Pipeline | Latest |
 
-## 🚦 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -211,9 +206,9 @@ const emi = calculateEMI(loanAmount, interestRate, tenure);
 We welcome contributions! Please follow these steps:
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+2. Create a feature branch (`git checkout -b feature/new-feature`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
 ### Development Guidelines
@@ -222,11 +217,11 @@ We welcome contributions! Please follow these steps:
 - Add tests for new features
 - Update documentation as needed
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🐛 Issues & Support
+##  Issues & Support
 
 If you encounter any issues or have questions:
 
@@ -235,11 +230,11 @@ If you encounter any issues or have questions:
 3. Contact here `em8een@gmail.com`
 
 
-## 📞 Contact
+##  Contact
 **GitHub**: [@prabinbessie](https://github.com/prabinbessie)  
 **Project Link**: [https://github.com/prabinbessie/MoneyMitra](https://github.com/prabinbessie/MoneyMitra)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [React](https://reactjs.org/) - Frontend framework
 - [Firebase](https://firebase.google.com/) - Backend services
