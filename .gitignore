@@ -76,3 +76,4 @@ scaffold.sh
 package-lock.json
 package.json
 src/components/Calculators/ts.txt
+build
