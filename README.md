@@ -10,21 +10,21 @@ MoneyMitra is a comprehensive **personal finance management application** built 
 ##  Features
 
 ### Core Functionality
-- ** Expense & Income Tracking** - Record and categorize all your financial transactions
-- ** Interactive Dashboard** - Visualize your financial data with dynamic charts and graphs
-- ** Loan Management** - Track loans with automated reminders and payment schedules
-- ** EMI Calculator** - Calculate loan EMIs with detailed breakdowns
-- ** Responsive Design** - Optimized for desktop, tablet, and mobile devices
-- ** Secure Authentication** - Firebase Auth with email/password and Google sign-in
+- **💰 Expense & Income Tracking** - Record and categorize all your financial transactions
+- **📊 Interactive Dashboard** - Visualize your financial data with dynamic charts and graphs
+- **🏦 Loan Management** - Track loans with automated reminders and payment schedules
+- **🧮 EMI Calculator** - Calculate loan EMIs with detailed breakdowns
+- **📱 Responsive Design** - Optimized for desktop, tablet, and mobile devices
+- **🔐 Secure Authentication** - Firebase Auth with email/password and Google sign-in
 
 ### Advanced Features
-- ** Financial Reports** - Generate detailed financial reports and insights
-- ** Smart Notifications** - Get reminders for upcoming payments and financial goals
-- ** Offline Support** - Work seamlessly with Firestore offline capabilities
-- ** Budget Planning** - Set and track financial goals and budgets
-- ** Transaction Categories** - Organize expenses with customizable categories
-- ** Email Notifications** - Automated email alerts for important financial events(.Soon.)
-- ** Advanced Analytics** - AI-powered financial insights and predictions (.Soon.)
+- **📈 Financial Reports** - Generate detailed financial reports and insights
+- **🔔 Smart Notifications** - Get reminders for upcoming payments and financial goals
+- **💾 Offline Support** - Work seamlessly with Firestore offline capabilities
+- **🎯 Budget Planning** - Set and track financial goals and budgets
+- **📋 Transaction Categories** - Organize expenses with customizable categories
+- **📧 Email Notifications** - Automated email alerts for important financial events(.Soon.)
+- **📊 Advanced Analytics** - AI-powered financial insights and predictions (.Soon.)
 ##  Tech Stack
 
 | Technology | Purpose | Version |
